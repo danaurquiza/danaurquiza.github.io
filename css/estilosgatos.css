@@ -1,0 +1,94 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Nanum+Gothic&family=Raleway:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Nanum+Gothic:wght@800&display=swap');
+
+body {
+    background-image: url(../img/gatos/fondo.jpg);
+
+
+}
+
+.titulo {
+    font-size: 40px;
+    text-shadow: 2px 1px black;
+    font-family: 'Raleway', sans-serif;
+    text-align: center;
+}
+
+.subtitulo {
+    color: brown;
+    background-color: whitesmoke;    
+    margin: 50px 2% 50px 2%;
+    font-family: 'Nanum Gothic', sans-serif;
+    font-weight: bolder;
+    text-align: center;
+    font-size: 25px;
+    
+
+}
+
+.primerimagen {
+    width: 40%;
+    height: auto;
+    margin: auto 30% auto 30%;
+    text-align: center;
+}
+
+h2 {
+    background-color: bisque;
+    font-size: 30px;
+    font-family: 'Raleway', sans-serif;
+    text-align: center;
+}
+
+.abandono,.sacrificio,.compañero,.ayudaras,.salud,.amigo,.gatonegro,.ventajas,.adultovscachorro,.geniales {
+    background-color: whitesmoke;
+    margin: auto 10% auto 10%;
+    font-family: 'Nanum Gothic', sans-serif;
+    text-align: left;
+    font-size: 20px;
+    padding: 10px
+}
+
+.imagen1,.imagen3,.imagen5 {
+    padding: 10px; 
+    margin: 10px; 
+    border: 3px solid black; 
+    float: right; width: 40%;
+    max-width: 450px;
+    max-height: auto;
+}
+.imagen2,.imagen4 {
+    padding: 10px; 
+    margin: 10px; 
+    border: 3px solid black; 
+    float: left ; width: 25%;
+    max-width: 500px;
+    max-height: auto;
+}
+.consejos{
+    background-color: whitesmoke;
+    margin: auto 2% auto 2%;
+    font-family: 'Nanum Gothic', sans-serif;
+    text-align: left;
+    font-size: 20px;
+    padding: 10px
+}
+.tituloconsejo{
+    background-color: rgb(255, 220, 177);
+    text-align: center;
+    
+}
+.besito{
+    width: 40%;
+    height: auto;
+    margin: auto 30% auto 30%;
+    text-align: center;
+}
+.pie{
+    background-color: rgb(255, 220, 177);
+    text-align: center;
+    font-size: 20px;
+    font-family: 'Raleway', sans-serif;
+    font-weight: bolder;
+}
