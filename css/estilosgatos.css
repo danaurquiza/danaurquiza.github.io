@@ -13,6 +13,7 @@ body {
     text-shadow: 2px 1px black;
     font-family: 'Raleway', sans-serif;
     text-align: center;
+    margin: auto 10% auto 10%;
 }
 
 .subtitulo {
@@ -91,4 +92,28 @@ h2 {
     font-size: 20px;
     font-family: 'Raleway', sans-serif;
     font-weight: bolder;
+}
+.indice{
+    background-color: white;
+    text-align: left;
+    font-size: 25px;
+    font-family: 'Raleway', sans-serif;
+    font-weight: bolder;
+    margin: auto 35% auto 35%;
+}
+.item1,.item2{
+    display: inline-block;
+    padding: 5%;
+    
+}
+.item1 a,.item2 a{
+    text-decoration: none;
+    color: red;
+    
+}
+.item1 a:hover,.item2 a:hover{
+    color: white;
+    background-color: blueviolet;
+    padding: 10px;
+    text-decoration: none;
 }
