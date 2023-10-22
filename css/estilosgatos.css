@@ -69,11 +69,11 @@ h2 {
 }
 .consejos{
     background-color: whitesmoke;
-    margin: auto 2% auto 2%;
+    margin: 5% 10% auto 10%;
     font-family: 'Nanum Gothic', sans-serif;
     text-align: left;
     font-size: 20px;
-    padding: 10px
+    padding: 20px
 }
 .tituloconsejo{
     background-color: rgb(255, 220, 177);
@@ -99,7 +99,7 @@ h2 {
     font-size: 25px;
     font-family: 'Raleway', sans-serif;
     font-weight: bolder;
-    margin: auto 35% auto 35%;
+    margin: auto 40% auto 40%;
 }
 .item1,.item2{
     display: inline-block;
